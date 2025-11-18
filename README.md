@@ -1,1 +1,1 @@
-# IDATT1004-Lego-mindstorm
+# Lego-oppgaver
